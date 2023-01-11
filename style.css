@@ -17,7 +17,6 @@ body{
 .wrapper{
   height: 265px;
   max-width: 410px;
-  /* background: #fff; */
   background: rgb(241, 226, 226);
   border-radius: 7px;
   padding: 20px 25px 0;
@@ -63,7 +62,6 @@ header p{
   cursor: pointer;
   margin-top: 20px;
   font-size: 17px;
-  /* background: #3498DB; */
   background: linear-gradient( blue, pink);
 
 }
