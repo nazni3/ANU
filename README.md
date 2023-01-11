@@ -1,2 +1,2 @@
 # QR Code Generator
-Project QR  Code
+Project QR Code
